@@ -4,5 +4,3 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - posts.md
