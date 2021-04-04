@@ -4,13 +4,8 @@
 
 ---
 
-
-<br>
 <br>
 
 * 🤓 [Tech Stuff](tech/tposts.md) 
 * 🥳 [Fun Stuff](fun/fposts.md) 
 * 😲 [Current Affairs Stuff](current_affairs/caposts.md) 
-
-<br> 
-<br>

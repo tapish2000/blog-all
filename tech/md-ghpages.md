@@ -5,10 +5,8 @@
 ---
 
 <br>
-<br>
 
-| Timeline -->| 03-04-2021 14:37 |
-|-------------|:-----------------|
+<div style="text-align: right">📅 03-04-2021 14:37</div>
 
 Anyone who wants to learn how to do this, can see my [repo](https://github.com/tapish2000/blog-all) 😏. It is as simple as you can think of 🆒. 
 1. Create a repo of your desired name 😃.

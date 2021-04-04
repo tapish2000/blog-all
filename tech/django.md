@@ -5,10 +5,8 @@
 ---
 
 <br>
-<br>
 
-| Timeline -->| 03-04-2021 19:30 |
-|-------------|:-----------------|
+<div style="text-align: right">📅 03-04-2021 19:30</div>
 
 Found a good playlist to start learning Django from basics 🚀. Although you should know a little bit of python 🤔.  
 For those who may not know, **Django** is used to make websites ✨. I think it is really *good* and *fast to make a simple website* which I am working on in a course project 😅. It has *everything from database to UI* in it 😃.   
