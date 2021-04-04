@@ -8,9 +8,9 @@
 <br>
 <br>
 
-* [Tech Stuff](tech/_tposts.md) 🤓
-* [Fun Stuff](fun/_fposts.md) 🥳
-* [Current Affairs Stuff](current_affairs/_caposts.md) 😲
+* 🤓 [Tech Stuff](tech/_tposts.md) 
+* 🥳 [Fun Stuff](fun/_fposts.md) 
+* 😲 [Current Affairs Stuff](current_affairs/_caposts.md) 
 
 <br> 
 <br>
