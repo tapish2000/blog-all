@@ -1,6 +1,6 @@
 ## How to use github pages and markdown to make websites
 ---
-> [Home](../index.md) > [Posts](../posts.md) > [Tech Stuff](_tposts.md) > `Markdown-githubpages`
+> [Home](../index.md) > [Posts](../posts.md) > [Tech Stuff](tposts.md) > `Markdown-githubpages`
 
 ---
 

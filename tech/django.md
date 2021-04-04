@@ -1,6 +1,6 @@
 ## Get Started with Django
 ---
-> [Home](../index.md) > [Posts](../posts.md) > [Tech Stuff](_tposts.md) > `Django`
+> [Home](../index.md) > [Posts](../posts.md) > [Tech Stuff](tposts.md) > `Django`
 
 ---
 
